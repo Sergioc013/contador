@@ -1,4 +1,4 @@
-package com.example.prueba_despliegue
+package com.applus.contador
 
 import io.flutter.embedding.android.FlutterActivity
 
